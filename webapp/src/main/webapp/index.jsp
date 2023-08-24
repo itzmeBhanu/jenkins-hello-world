@@ -1,8 +1,12 @@
-<Html> <!-- This tag is compulsory for any HTML document. -->   
+<Html>    
 <Head>  
-<!-- The Head tag is used to create a title of web page, CSS syntax for a web page, and helps in written a JavaScript code. -->  
+<title>  
+Example of make a text B,I,U  
+</title>  
 </Head>  
-<Body>  
-<!-- The Body tag is used to display the content on a web page. In this example we do not specify any content or any tag, so in output nothing will display on the web page. -->  
+<Body>   
+<b> [This text is Bold......] </b>  
+<I> [This text is Italic......] </I>  
+<U> [This text is Underline......] </U>   
 </Body>  
-</Html>  
+</Html> 
