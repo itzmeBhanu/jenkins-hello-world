@@ -1,11 +1,9 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:powderblue;">
 
-<h2>HTML Images</h2>
-<p>HTML images are defined with the img tag:</p>
-
-<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
 </body>
 </html>
